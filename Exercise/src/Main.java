@@ -5,5 +5,6 @@ public class Main {
         System.out.println("這是用來練習GitHub協作的程式！");
         System.out.printf("學號: \"01157018\" 姓名：\"斯培哲\"\n");
         System.out.printf("學號: \"01157032\" 姓名：\"何燿安\"\n");
+        System.out.printf("學號: \"01157040\" 姓名：\"許宏銓\"\n");
     }
 }
